@@ -54,7 +54,7 @@
 
 ### 导入.ttmp2格式的Mod
 
-![avatar][picture1] 
+![picture1] 
 
 之后选择下载好的.ttmp2文件
 
